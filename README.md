@@ -3,6 +3,6 @@ Database to store passwords that can be accessed by a master password, this way 
 The script uses Secure Hash Algorithm, that is a set of cryptographic hash functions designed by the United States National Security Agency.
 
 The script is written in Python and SQL.
-- q = quit program
-- sp = store password
-- gp = get password
+- `q` = quit program
+- `sp` = store password
+- `gp` = get password
